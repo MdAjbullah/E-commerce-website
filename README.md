@@ -30,7 +30,7 @@ download zip or clone repo (all required files are included)
 
 view the website here.
 
-     ]https://mdcomfoodwebsite.netlify.app/
+     https://mdcomfoodwebsite.netlify.app/
 
 
 
