@@ -12,4 +12,4 @@
 
 A website to sell food products online
 
-mobile friendly
+.mobile friendly
