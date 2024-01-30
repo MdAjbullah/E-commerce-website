@@ -29,8 +29,8 @@ technologies used
 download zip or clone repo (all required files are included)
 
 view the website here.
-mdcomfoodwebsite.netlify.app
-<a herf="mdcomfoodwebsite.netlify.app">
+
+<a herf="mdcomfoodwebsite.netlify.app">WebsiteLinke Here</a>
 
 
 Screenshots.
